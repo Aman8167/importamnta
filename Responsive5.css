@@ -1,0 +1,9 @@
+.card-1{
+    background-color: lightpink;
+    width:90%;
+    margin:auto;
+}
+.container-fluid{
+    height:150vh;
+    background-color:lightpink;
+}

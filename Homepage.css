@@ -1,0 +1,14 @@
+.card-1{
+    background-color: rgb(125, 217, 240);
+    width:90%;
+    margin:auto;
+}
+.container-fluid{
+    height:200vh;
+    background-color:rgb(125, 217, 240);
+}
+
+.form-control{
+    background-color: rgb(207, 220, 224);
+    border:0px solid white;
+}

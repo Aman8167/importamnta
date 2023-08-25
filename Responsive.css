@@ -1,0 +1,28 @@
+
+.container-fluid{
+    height:150vh;
+    background-color:lightpink;
+}
+
+
+#btn1{
+    width:28%;
+    padding:12px;
+   
+}
+#btn2{
+    width:28%;
+    padding:12px;
+   
+}
+#btn3{
+    width:28%;
+    padding:12px;
+   
+}
+.card-1{
+    background-color: lightpink;
+    width:90%;
+    margin:auto;
+    border:2px solid lightpink;
+}
